@@ -28,7 +28,7 @@ just a guy who codes, learns, grows, and repeats. 😉<br>
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTc0LjkgMjAuMUw1NS40IDM4LjUgMzcuMiAyMy40IDMwIDI4LjkgNDYuMyA1MCAzMCA3MS4xbDcuMiA1LjUgMTguMi0xNS4xIDE5LjUgMTguNEw4MCA3NVYyNWwtNS4xLTQuOXpNNTguNiA1MCA2OS4zIDM4LjJ2MjMuNkw1OC42IDUweiIvPjwvc3ZnPg==&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
