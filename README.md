@@ -1,9 +1,9 @@
 # 💫 Heyyyy there!
 ### Im Adam, a student navigating the world of programming, one bug at a time. 👻<br><br>
-###🖥️ currently leveling up my dev skills at school<br>
-###🎵 always with music in my ears<br>
-###🏋️ hitting the workouts & pushing limits everyday<br>
-###📖 forever in self-improvement mode<br><br>just a guy who codes, learns, grows, and repeats.
+### 🖥️ currently leveling up my dev skills at school<br>
+### 🎵 always with music in my ears<br>
+### 🏋️ hitting the workouts & pushing limits everyday<br>
+### 📖 forever in self-improvement mode<br><br>just a guy who codes, learns, grows, and repeats.
 
 
 ## 🌐 My Socials:
