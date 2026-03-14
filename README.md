@@ -20,7 +20,12 @@ just a guy who codes, learns, grows, and repeats. 😉<br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=czarexq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=czarexq&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=czarexq&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=dark&hide_border=true&layout=compact&count_private=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
