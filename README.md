@@ -24,4 +24,11 @@ just a guy who codes, learns, grows, and repeats. 😉<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=dark&hide_border=true&layout=compact&count_private=true)
 
+# 🖥️ Apps I use
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
