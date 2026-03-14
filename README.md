@@ -1,5 +1,5 @@
 # 💫 Heyyyy there!
-### Im Adam, a student navigating the world of programming, one bug at a time. 👻<br>
+#### Im Adam, a student navigating the world of programming, one bug at a time. 👻<br>
 ### 🖥️ currently leveling up my dev skills at school<br>
 ### 🎵 always with music in my ears<br>
 ### 🏋️ hitting the workouts & pushing limits everyday<br>
