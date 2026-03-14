@@ -8,7 +8,7 @@ just a guy who codes, learns, grows, and repeats. 😉<br>
 
 # 🌐 My Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/czarexq/) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]([https://pinterest.com/https://pl.pinterest.com/czarexq/](https://pin.it/qIhqstSC9)) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pl.pinterest.com/czarexq/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@czarexq) 
 <br>
 # 💻 Tech Stack:
