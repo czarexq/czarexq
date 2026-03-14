@@ -1,4 +1,4 @@
-# 🌱 Heyyyy there, I'm Adam!
+# 🌱 Heyyy there, I'm Adam!
 🖥️ Currently leveling up my dev skills at school<br>
 🎵 Always with music in my ears<br>
 🏋️ Hitting the workouts & pushing limits everyday<br>
