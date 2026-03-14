@@ -9,7 +9,7 @@ just a guy who codes, learns, grows, and repeats. 😉<br>
 # 🌐 My Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/czarexq/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pl.pinterest.com/czarexq/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@czarexq) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@czarexq) 
 <br>
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -20,10 +20,6 @@ just a guy who codes, learns, grows, and repeats. 😉<br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 # 📊 GitHub Stats:
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=czarexq&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=czarexq&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=dark&hide_border=true&layout=compact&count_private=true)
