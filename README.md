@@ -24,7 +24,7 @@ just a guy who codes, learns, grows, and repeats. 😉<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=dark&hide_border=true&layout=compact&count_private=true)
 
-# 🖥️ Apps I use
+# 🖥️ My favotite apps:
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
