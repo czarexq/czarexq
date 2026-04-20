@@ -1,9 +1,9 @@
-# 🌱 Heyyy there, I'm Adam!
+# 🌱 HIII there, I'm Adam!
 🖥️ Currently leveling up my dev skills at school<br>
 🎵 Always with music in my ears<br>
 🏋️ Hitting the workouts & pushing limits everyday<br>
 📖 Forever in self-improvement mode<br><br>
-`just a guy who codes, learns, grows, and repeats.` 😉<br>
+`just a guy who codes, learns, grows, and repeats.` 👅<br>
 
 
 # 🌐 My Socials:
