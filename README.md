@@ -1,15 +1,15 @@
-# 🌱 HIII there, I'm Adam!
+# 🌱 Hiii there, I'm Adam!
 🖥️ Currently leveling up my dev skills at school<br>
 🎵 Always with music in my ears<br>
 🏋️ Hitting the workouts & pushing limits everyday<br>
 📖 Forever in self-improvement mode<br><br>
-`just a guy who codes, learns, grows, and repeats.` 👅<br>
+`just a guy who codes, learns, grows, and repeats.` 🔥<br>
 
 
 # 🌐 My Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/czarexq/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pl.pinterest.com/czarexq/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@czarexq) 
+Note: Well I don't have others like TikTok or stuff, imo social media sucks
 <br>
 # 💻 Tech Stack:
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
