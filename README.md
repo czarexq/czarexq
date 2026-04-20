@@ -8,8 +8,8 @@
 
 # 🌐 My Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pl.pinterest.com/czarexq/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@czarexq) 
-Note: Well I don't have others like TikTok or stuff, imo social media sucks
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@czarexq) <br>
+`Note: Well I don't have others like TikTok or stuff, imo social media sucks`
 <br>
 # 💻 Tech Stack:
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
