@@ -20,9 +20,8 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 <br>
 # 📊 GitHub Stats:
-**![czarexq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)**
-**![czarexq](https://github-readme-stats.vercel.app/api?username=czarexq)   **
-
+![czarexq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+![czarexq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=czarexq&theme=midnight-purple&hide_border=true)
 # 🖥️ My favotite apps:
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
