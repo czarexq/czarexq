@@ -21,7 +21,7 @@
 <br>
 # 📊 GitHub Stats:
 ![czarexq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=gotham&show_icons=true&hide_border=true&layout=compact) <br>
-![czarexq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![czarexq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=czarexq&theme=gotham&hide_border=true)
 # 🖥️ My favotite apps:
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
