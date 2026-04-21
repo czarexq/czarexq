@@ -22,7 +22,7 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=czarexq&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=dark&hide_border=true&layout=compact&count_private=true)
+![czarexq](https://github-readme-stats.vercel.app/api?username=czarexq)   
 
 # 🖥️ My favotite apps:
 
