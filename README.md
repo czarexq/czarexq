@@ -20,7 +20,7 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 <br>
 # 📊 GitHub Stats:
-![czarexq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=gotham&show_icons=true&hide_border=true&layout=compact) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=czarexq&theme=dark&border_radius=4)](https://git.io/streak-stats) <br>
 ![czarexq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=czarexq&theme=gotham&hide_border=true)
 # 🖥️ My favotite apps:
 
