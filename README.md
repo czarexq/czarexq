@@ -20,7 +20,6 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 <br>
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=czarexq&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=czarexq&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
