@@ -20,8 +20,8 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 <br>
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=czarexq&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=dark&hide_border=true&layout=compact&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=czarexq&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=dark&hide_border=true&layout=compact)
 
 ---
 
