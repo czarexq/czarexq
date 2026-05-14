@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=czarexq&fontSize=48&fontColor=fff&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/> <br>
 ## 📌 About Me <br>
-#### 🖥️ Currently leveling up my dev skills at school<br>
-#### 🎵 Always with music in my ears<br>
-#### 🏋️ Hitting the workouts & pushing limits everyday<br>
-#### 📖 Always trying to improve<br>
-#### `just a guy who codes, learns, grows, and repeats.` 🔥<br><br>
+#### 🖥️ Currently leveling up my future skills at school<br>
+#### 🎵 I love coding with music<br>
+#### 🏋️ Besides coding i love being active and working out<br>
+#### 📖 I'm always trying to improve myself<br>
+#### `just a guy who codes, learns, grows, and repeats.` ✝️🔥<br><br>
 
 ##  💻 Tech Stack:
 ### Languages
