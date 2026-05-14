@@ -1,19 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=czarexq&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/>
-<img src="https://i.pinimg.com/736x/e2/dd/c5/e2ddc5be741863bd969a853c44a5c4c0.jpg" alt="Banner" width="100%" height="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=czarexq&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/> <br>
+## 📌 About Me <br>
+#### 🖥️ Currently leveling up my dev skills at school<br>
+#### 🎵 Always with music in my ears<br>
+#### 🏋️ Hitting the workouts & pushing limits everyday<br>
+#### 📖 Forever in self-improvement mode<br>
+#### `just a guy who codes, learns, grows, and repeats.` 🔥<br>
 
-🖥️ Currently leveling up my dev skills at school<br>
-🎵 Always with music in my ears<br>
-🏋️ Hitting the workouts & pushing limits everyday<br>
-📖 Forever in self-improvement mode<br><br>
-`just a guy who codes, learns, grows, and repeats.` 🔥<br>
-
-
-# 🌐 My Socials:
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pl.pinterest.com/czarexq/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@czarexq) <br>
-`Note: Well I don't have others like TikTok or stuff, imo social media sucks :p`
-<br>
-# 💻 Tech Stack:
+##  💻 Tech Stack:
 ### Languages
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/docs/Web/JavaScript)
@@ -26,13 +19,12 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 <br>
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=czarexq&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=czarexq&theme=dark&hide_border=true&layout=compact)
 
----
+## 📊 GitHub Stats:
+<img src="https://streak-stats.demolab.com/?user=czarexq&theme=dark&hide_border=true&cache_seconds=86400" alt="czarexq's GitHub Streak" width="49%" />
 
-# 🖥️ My favotite apps:
+
+## 🖥️ My favotite apps:
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
