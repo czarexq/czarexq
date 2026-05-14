@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=czarexq&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/> <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=czarexq&fontSize=48&fontColor=fff&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/> <br>
 ## 📌 About Me <br>
 #### 🖥️ Currently leveling up my dev skills at school<br>
 #### 🎵 Always with music in my ears<br>
 #### 🏋️ Hitting the workouts & pushing limits everyday<br>
-#### 📖 Forever in self-improvement mode<br>
-#### `just a guy who codes, learns, grows, and repeats.` 🔥<br>
+#### 📖 Always trying to improve<br>
+#### `just a guy who codes, learns, grows, and repeats.` 🔥<br><br>
 
 ##  💻 Tech Stack:
 ### Languages
@@ -21,14 +21,7 @@
 <br>
 
 ## 📊 GitHub Stats:
-<img src="https://streak-stats.demolab.com/?user=czarexq&theme=dark&hide_border=true&cache_seconds=86400" alt="czarexq's GitHub Streak" width="49%" />
+![](https://streak-stats.demolab.com/?user=czarexq&theme=dark&hide_border=true)
 
-
-## 🖥️ My favotite apps:
-
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
-[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)](https://brave.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 
 
