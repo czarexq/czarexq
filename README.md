@@ -1,4 +1,6 @@
-# 🌱 Hiii there, I'm Adam!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=czarexq&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://i.pinimg.com/736x/e2/dd/c5/e2ddc5be741863bd969a853c44a5c4c0.jpg" alt="Banner" width="100%" height="80%"/>
+
 🖥️ Currently leveling up my dev skills at school<br>
 🎵 Always with music in my ears<br>
 🏋️ Hitting the workouts & pushing limits everyday<br>
