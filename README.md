@@ -6,8 +6,7 @@
 #### 📖 I'm always trying to improve myself<br>
 #### `just a guy who codes, learns, grows, and repeats.` ✝️🔥<br><br>
 
-##  💻 Tech Stack:
-### Languages
+##  🔧 My Tools:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
   <img width="12" />
@@ -17,22 +16,27 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  ///fake i will update later
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github"  />
+  <img width="12" />
 </div>
 
-### Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-<br>
+##  💻 My Favorite apps:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spotify" height="60" alt="spotify"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github"  />
+  <img width="12" />
+</div>
 
 ## 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=czarexq&theme=dark&hide_border=true)
