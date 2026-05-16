@@ -38,12 +38,5 @@
   <img width="12" />
 </div>
 
-## 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=czarexq&theme=dark&hide_border=true)
-<div align="center">
-<img src="https://raw.githubusercontent.com/czarexq/czarexq/stats-output/stats.svg" height="150" alt="stats graph"/>
-<img src="https://raw.githubusercontent.com/czarexq/czarexq/languages-output/languages.svg" height="150" alt="languages graph"/>
-</div>
-
 
 
