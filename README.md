@@ -2,8 +2,9 @@
 ## 📌 About Me <br>
 #### 🖥️ Currently leveling up my future skills at school<br>
 #### 🎵 I love coding with music<br>
-#### 🏋️ Besides coding i love being active and working out<br>
+#### 🏋️ Besides coding I love being active and working out<br>
 #### 📖 I'm always trying to improve myself<br>
+#### ⭐ My dream is to get into cybersecurity <br>
 #### `just a guy who codes, learns, grows, and repeats.` ✝️🔥<br><br>
 
 ##  🔧 My Tools:
@@ -37,6 +38,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github"  />
   <img width="12" />
 </div>
+<br><br><br>
 
 
 
